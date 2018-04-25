@@ -1,0 +1,5 @@
+com\todoapplication\TodoListApplication.class
+com\todoapplication\controllers\HomeController.class
+com\todoapplication\repositories\TasksRepository.class
+com\todoapplication\models\Tasks.class
+com\todoapplication\models\PriorityEnum.class
